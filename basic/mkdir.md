@@ -1,0 +1,1 @@
+* `mkdir anyFolder` create a new folder
