@@ -1,0 +1,1 @@
+* `cp fromName toName` copy from location to other location file
