@@ -1,0 +1,1 @@
+* `rm -r anyFolder` remove any folder
