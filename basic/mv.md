@@ -1,0 +1,1 @@
+* `mv currentName newName` rename file or folder
