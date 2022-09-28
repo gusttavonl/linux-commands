@@ -1,0 +1,1 @@
+* `pwd` get your current folder
