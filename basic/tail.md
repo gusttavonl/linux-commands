@@ -1,0 +1,1 @@
+* `tail fileName` see footer file content
