@@ -1,0 +1,1 @@
+* `adduser username` add user with username
