@@ -1,0 +1,1 @@
+* `kill -9 pipProcess` kill process, pipProcess is the number of process ( get with `ps` )
